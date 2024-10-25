@@ -1,11 +1,13 @@
 
 Default bin is compatible with windows 386
 
-```vimeo downloader (main directory)
+```
+vimeo downloader (main directory)
 ├── bin
 │   ├── yt_dlp.exe
 │   └── ffmpeg.exe
-└── downloader_auto.py```
+└── downloader_auto.py
+```
 
 
 If you need to change bin dependencies check in
